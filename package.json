@@ -4,6 +4,7 @@
   "main": "src/index.js",
   "esnext": "src/index.js",
   "module": "src/index.js",
+  "homepage": "https://github.com/awaitbox/meteor-startup",
   "repository": {
     "type": "git",
     "url": "git@github.com:awaitbox/meteor-startup.git"
