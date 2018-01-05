@@ -4,6 +4,13 @@
   "main": "src/index.js",
   "esnext": "src/index.js",
   "module": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:awaitbox/meteor-startup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/awaitbox/meteor-startup/issues"
+  },
   "keywords": [
     "async",
     "async-functions",
