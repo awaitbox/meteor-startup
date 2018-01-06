@@ -4,6 +4,8 @@
 
 Await for Meteor's environment to be ready.
 
+#### `npm i @awaitbox/meteor-startup --save`
+
 This assumes the `Meteor` global variable is available, and works on the client
 or the server.
 
